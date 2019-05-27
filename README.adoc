@@ -3,4 +3,6 @@ Materail Design Project: Nano degree term 2
 This repository stores the starter code for the XYZ Reader project in Udacity's Android Nanodegree.
 
 
+![device-2019-05-27-224717](https://user-images.githubusercontent.com/21308532/58439033-77a06a80-80d2-11e9-9d38-1875bbadd06a.png)
+![device-2019-05-27-224800](https://user-images.githubusercontent.com/21308532/58439034-77a06a80-80d2-11e9-81d8-f4c91265c923.png)
 
